@@ -1,11 +1,5 @@
-detectron2_repo/
-dataset_100K/
-datasets/
-temp/
-viz_bk/
-debug/
-models/
-
 __pycache__
 .ipynb_checkpoints
 .vscode
+models/model_0529999.pth
+models/model_0974999.pth
